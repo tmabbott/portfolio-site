@@ -1,17 +1,16 @@
-# Communications Portfolio Starter
+# Resume + Portfolio Starter
 
-This repo is a GitHub Pages-ready static portfolio site for a marketing and communications consultant or agency. It includes:
+This repo is a GitHub Pages-ready static site for a recent graduate or early-career candidate who needs a combination online resume and portfolio. It includes:
 
-- A polished single-page site
+- A polished single-page resume and portfolio site
 - Placeholder writing samples as downloadable PDFs
-- Placeholder sections for future videos
 - A GitHub Actions workflow that deploys the site to GitHub Pages on pushes to `main`
 
 ## Files to update first
 
-- `index.html`: Replace the placeholder brand, copy, and contact details
+- `index.html`: Replace the placeholder profile, resume details, and contact links
 - `content/samples/*.txt`: Edit the source text for the placeholder writing samples
-- `content/videos/README.md`: Notes on where to drop real videos or embed code
+- `assets/favicon.svg`: Replace the icon if you want a personalized mark
 
 ## Regenerate the PDFs
 
