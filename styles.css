@@ -637,7 +637,7 @@ h3 {
   position: relative;
   display: block;
   width: 100%;
-  aspect-ratio: 8.5 / 11;
+  aspect-ratio: 1;
   overflow: hidden;
   border: 1px solid rgba(28, 34, 48, 0.14);
   border-radius: 0.85rem;
@@ -660,24 +660,7 @@ h3 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-}
-
-.sample-preview span {
-  position: absolute;
-  right: 0.55rem;
-  bottom: 0.55rem;
-  left: 0.55rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.45rem 0.6rem;
-  border-radius: 999px;
-  background: rgba(28, 34, 48, 0.86);
-  color: #fffaf4;
-  font-size: 0.74rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  object-position: top center;
 }
 
 .sample-content {
@@ -686,10 +669,6 @@ h3 {
   flex-direction: column;
   align-items: flex-start;
   gap: 1rem;
-}
-
-.sample-content .button {
-  margin-top: auto;
 }
 
 .sample-type {
