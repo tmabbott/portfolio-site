@@ -262,6 +262,7 @@ h3 {
 .resume-block p,
 .feature-card p,
 .sample-card p,
+.video-showcase p,
 .timeline p,
 .contact-card p,
 .bullet-list {
@@ -594,8 +595,33 @@ h3 {
   background: linear-gradient(180deg, rgba(244, 239, 255, 0.92), rgba(255, 255, 255, 0.66));
 }
 
+.video-showcase {
+  display: grid;
+  grid-template-columns: minmax(0, 0.82fr) minmax(320px, 1fr);
+  gap: 1.2rem;
+  align-items: center;
+  margin-top: 1rem;
+  padding: 1.4rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background:
+    linear-gradient(135deg, rgba(31, 131, 117, 0.1), rgba(47, 95, 184, 0.08)),
+    rgba(255, 255, 255, 0.62);
+}
+
+.video-showcase video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid rgba(28, 34, 48, 0.12);
+  border-radius: 1rem;
+  background: #141821;
+  box-shadow: 0 16px 36px rgba(28, 34, 48, 0.14);
+  object-fit: cover;
+}
+
 .sample-list {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
 }
 
@@ -699,7 +725,9 @@ h3 {
   .hero,
   .split-section,
   .resume-grid,
-  .sample-card {
+  .sample-card,
+  .sample-list,
+  .video-showcase {
     grid-template-columns: 1fr;
   }
 

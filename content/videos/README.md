@@ -1,11 +1,8 @@
-# Video Placeholder Notes
+# Video Notes
 
-This starter site uses visual placeholder cards in `index.html` for future video sections.
+The site includes a compact preview of Chelsea's Boston Calling rehearsal vlog sample at:
 
-Common ways to replace them:
+`assets/videos/boston-calling-rehearsal-vlog-preview.mp4`
 
-- Embed a Vimeo or YouTube iframe directly in the relevant card
-- Add an MP4 file to this folder and swap the placeholder block for an HTML `<video>` element
-- Use a poster image with a link out to an external hosted video
-
-If you use local video files, keep them compressed before committing so the repo stays lightweight.
+The full-resolution source video is intentionally kept in ignored source material rather than the
+public asset bundle so the deployable site stays lightweight.

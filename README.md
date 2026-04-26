@@ -1,15 +1,17 @@
-# Resume + Portfolio Starter
+# Chelsea Mabbott Resume + Portfolio
 
-This repo is a GitHub Pages-ready static site for a recent graduate or early-career candidate who needs a combination online resume and portfolio. It includes:
+This repo is a GitHub Pages-ready static site for Chelsea Mabbott's resume and portfolio. It includes:
 
 - A polished single-page resume and portfolio site
-- Placeholder writing samples as downloadable PDFs
+- Chelsea's resume PDF
+- Downloadable portfolio samples generated from the source writing files
+- A compact web preview of the Boston Calling rehearsal vlog sample
 - A GitHub Actions workflow that deploys the site to GitHub Pages on pushes to `main`
 
 ## Files to update first
 
-- `index.html`: Replace the placeholder profile, resume details, and contact links
-- `content/samples/*.txt`: Edit the source text for the placeholder writing samples
+- `index.html`: Update profile, resume, contact, and sample card copy
+- `content/samples/*.txt`: Edit the source text used to generate sample PDFs
 - `assets/favicon.svg`: Replace the icon if you want a personalized mark
 
 ## Regenerate the PDFs
@@ -39,5 +41,3 @@ python3 -m http.server 8000
 ```
 
 Then open `http://localhost:8000`.
-
-testing.
