@@ -1,31 +1,23 @@
-RESEARCH MEMO SAMPLE
-Placeholder PDF sample for a recent-grad portfolio
+DIDRIKS WEBSITE COPY SAMPLE
+Placeholder PDF sample for Chelsea Mabbott
 
-Working Title
-What Makes Students Actually Engage With Campus Events
+Project Context
+This sample stands in for Chelsea Mabbott's work at Didriks, where she progressed from Website Designer and Blogger to Senior Website Designer and Marketing & E-Commerce Supervisor between May 2021 and Sep 2024.
 
-Opening
-This sample stands in for a capstone summary, research memo, or analytical writing piece. It is designed to show synthesis: taking notes, survey results, or interviews and turning them into a clear argument.
+Scope
+Gathered product data and images.
+Uploaded products using Google Sheets and Oracle NetSuite.
+Published blog content through Squarespace.
+Rewrote product and category descriptions for the website using HTML formatting.
+Used SEO and metadata to support traffic from search.
 
-Question
-Many student groups struggle with turnout even when they post consistently. The better question is not whether communication happened. It is whether the message felt relevant, specific, and easy to act on.
+What This Sample Can Show
+1. Before-and-after product description edits
+2. Category page copy
+3. Blog excerpts
+4. SEO-aware web writing and metadata
 
-Findings
-Students were more likely to respond when invitations answered three questions quickly:
-1. What is happening?
-2. Why is it worth my time?
-3. What do I need to do next?
+Why It Matters
+This work combines writing with execution. It shows Chelsea can not only draft copy, but also format it for the web, maintain consistency across product pages, and support the business side of digital publishing.
 
-Implication
-The communication itself did not need to be longer. It needed to remove uncertainty. Clearer naming, stronger timing, and better visual consistency all made participation feel more accessible.
-
-What This Sample Shows
-Research framing
-Argument structure
-Selective use of evidence
-Analytical writing that stays readable
-
-Closing
-A good memo does not only report information. It makes the next decision easier.
-
-Replace this placeholder with a real capstone abstract, memo, or research-based writing sample.
+Replace this placeholder with approved Didriks website copy, blog excerpts, or SEO examples when available.
