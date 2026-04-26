@@ -24,6 +24,14 @@ After updating any sample text file, rebuild the PDFs locally:
 
 The generated PDFs land in `assets/samples/` and are ready to commit.
 
+To rebuild the clickable first-page thumbnails for the sample cards:
+
+```bash
+./scripts/build-pdf-thumbnails.sh
+```
+
+The thumbnails land in `assets/samples/thumbnails/`.
+
 ## Publish on GitHub Pages
 
 1. Create a new GitHub repository.
